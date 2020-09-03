@@ -3,6 +3,9 @@ uuid = "77f5b000-9691-4ba8-a4a3-6c5f9eb41938"
 authors = ["Gus Hart <gus.hart@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1"
 
